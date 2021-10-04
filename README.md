@@ -1,0 +1,1 @@
+A small HTML-only project of a recipe website.
