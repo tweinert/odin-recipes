@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+    background-color :cornsilk;
+}
+
+h3 {
+    color:limegreen;
+    background-color: linen;
+}
+
+.start-image {
+    width: 400px;
+    height: auto;
+}
+
+#recipe-list {
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
